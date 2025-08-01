@@ -1,1 +1,1 @@
-# blog
+# Set-ExecutionPolicy RemoteSigned -Scope Process

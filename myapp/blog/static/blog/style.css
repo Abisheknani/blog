@@ -1,3 +1,7 @@
 body{
     background-color: #cccccc;
 }
+footer{
+       display: block;
+       margin-top: 80px;
+}
